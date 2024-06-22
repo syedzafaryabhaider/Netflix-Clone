@@ -34,11 +34,11 @@ To get a local copy up and running, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/netflix-clone.git
+    git clone https://github.com/syedzafaryabhaider/Netflix-Clone.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd netflix-clone
+    cd Netflix-Clone
     ```
 
 ## Usage
