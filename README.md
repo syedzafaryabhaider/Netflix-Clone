@@ -14,7 +14,7 @@ This project is a responsive clone of the Netflix home page created using HTML a
 
 ## Demo
 
-Check out the live demo of the Netflix clone: [Netflix Clone Demo](#)
+Check out the live demo of the Netflix clone: [Here](https://syedzafaryabhaider.github.io/Netflix-Clone/)
 
 ## Features
 
@@ -61,6 +61,6 @@ Please ensure your code follows the existing coding standards and includes appro
 
 For any questions or inquiries, please contact:
 
-- **Your Name**
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Syed Zafaryab Haider**
+- **Email:** syedzafaryabhaider@gmail.com
+- **GitHub:** [syedzafaryabhaider](https://github.com/syedzafaryabhaider)
