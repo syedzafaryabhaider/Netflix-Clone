@@ -14,7 +14,7 @@ This project is a responsive clone of the Netflix home page created using HTML a
 
 ## Demo
 
-Check out the live demo of the Netflix clone: [Here](https://syedzafaryabhaider.github.io/Netflix-Clone/)
+Check out the live demo of the Netflix clone: [Here](https://netflix-clone-roan-gamma.vercel.app/)
 
 ## Features
 
